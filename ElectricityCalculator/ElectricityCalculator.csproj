@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>ElectricityCalculator</AssemblyName>
+    <RootNamespace>ElectricityCalculator</RootNamespace>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>ElectricityCalculator</PackageId>
+    <Title>Electricity Calculator | Resistors | Capacitors | Inductors</Title>
+    <Version>1.0.0</Version>
+    <Authors>Ebube4im Anya</Authors>
+    <Company>LearnwithEbube4im</Company>
+    <Product>ElectricityCalculator</Product>
+    <Description>A comprehensive Electricity Library for building solutions involving electricity calculations such as Adding Resistors (Parallel or Series), Calculating Resistor values from color codes, Electrical Power, Ohms law, Capacitance etc</Description>
+    <Copyright>This product is a property of Learn with Ebube4im and can be used within the confines of the General Open Source Copyright laws.</Copyright>
+    <PackageTags>Resistors; Calculator; Electricity; ResistorCodes; Electrical Power; Capacitance; </PackageTags>
+    <PackageReleaseNotes>This is the first version and at such is open for contribution. Do well to try out the tool and give us feedback. </PackageReleaseNotes>
+    <PackAsTool>False</PackAsTool>
+    <EnableNETAnalyzers>True</EnableNETAnalyzers>
+    <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
+    <AnalysisLevel>none</AnalysisLevel>
+  </PropertyGroup>
+
+</Project>
